@@ -248,7 +248,7 @@ td, th{
 /* Rodapé*/
 
 footer{
-    background: url(src/img/bg.jpg);
+    background: url(../img/bg.jpg);
     color: #FFFFFF;
     padding: 40px 0;
     font-size: 13px;
