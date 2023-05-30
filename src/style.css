@@ -248,7 +248,7 @@ td, th{
 /* Rodapé*/
 
 footer{
-    background: linear-gradient(#888888, #222222);
+    background: #222222;
     color: #FFFFFF;
     padding: 40px 0;
     font-size: 13px;
